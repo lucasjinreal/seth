@@ -38,3 +38,16 @@ void Net::initWeights(int type, double a, double b) {
         initWeight(weights[i], 0, 0., 0.1);
     }
 }
+
+void Net::initBias(cv::Scalar &bias) {
+    std::cout << "init bias\n";
+}
+
+
+void Net::backward() {
+    std::cout << "backward work\n";
+}
+
+void Net::forward() {
+    std::cout << "forward work\n";
+}
