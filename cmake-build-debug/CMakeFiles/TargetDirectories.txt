@@ -1,0 +1,3 @@
+/Volumes/xs/codes/c_cc/lab/seth/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/xs/codes/c_cc/lab/seth/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/xs/codes/c_cc/lab/seth/cmake-build-debug/CMakeFiles/seth_main.dir

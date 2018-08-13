@@ -1,0 +1,5 @@
+/Volumes/xs/MacApps/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Volumes/xs/codes/c_cc/lab/seth
+-- Find OpenCV.
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Volumes/xs/codes/c_cc/lab/seth/cmake-build-debug
